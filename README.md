@@ -76,9 +76,9 @@ The dashboard provides insights into order trends, restaurant performance, payme
 
 ## 📁 Repository Structure
 
-- `Dashboard/` – Power BI project file.
 - `Screenshots/` – Dashboard page images.
 - `Reports/` – Dashboard PDF report.
+- `Dashboard/` - Power BI file.
 - `README.md` – Project documentation.
 
 ## 👩‍💻 Author
